@@ -1,0 +1,36 @@
+.Covertop {
+  display: flex;
+  width: 1200px;
+  margin: auto;
+  margin-top: 80px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0.05228028711484589) 0%,
+    rgba(9, 9, 121, 0) 5%,
+    rgba(0, 212, 255, 0) 100%
+  );
+  border-radius: 10px;
+}
+.text {
+  text-align: center;
+}
+.Covertop img {
+  margin-left: 20px;
+  width: 500px;
+}
+.Covertop h1 {
+  margin-top: 40px;
+  font-size: small;
+  background-color: rgb(205, 72, 27);
+  width: 70px;
+  height: 20px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 2px;
+}
+.Covertop p {
+  color: gray;
+  font-size: small;
+  margin-top: 40px;
+}
